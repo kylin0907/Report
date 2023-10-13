@@ -1,0 +1,12 @@
+研一 第一学期 第二周 工作汇报  
+1.数据采集：周三跟随师兄到医院采集RSVP和PIC两个范式的实验数据，基本实验流程都已经熟悉，设备连接和测试系统操作还需练习  
+  
+2.文献阅读：本周共阅读了3篇意识障碍方面的文献，并将读到的信息汇总到思维导图和excel表中（详情：https://github.com/kylin0907/Disorders-of-Consciousness.git的思维导图和参考文献）  
+三篇论文分别是：
+F. Wang, Y. Wan, Z. Li, F. Qi, and J. Li, “A cross-subject decoding algorithm for patients with disorder of consciousness based on p300 brain computer interface,” Frontiers in Neuroscience, vol. 17, 2023.  
+V. Galiotta, I. Quattrociocchi, M. D’Ippolito, F. Schettini, P. Aric`o,S. Sdoia, R. Formisano, F. Cincotti, D. Mattia, and A. Riccio, “Eeg-based brain-computer interfaces for people with disorders of consciousness:Features and applications. a systematic review,” Frontiers in Human Neuroscience, vol. 16, p. 1040816, 2022.  
+J. Pan, Q. Xie, P. Qin, Y. Chen, Y. He, H. Huang, F. Wang, X. Ni, A. Cichocki, R. Yu et al., “Prognosis for patients with cognitive motor dissociation identified by brain-computer interface,” Brain, vol. 143, no. 4, pp. 1177–1189, 2020.  
+  
+3.代码复现完成度95%，模型搭建已完成，模型训练已完成，剩下模型测试  
+
+4.coursera课程进展到54
