@@ -1,0 +1,14 @@
+1.	文献阅读：本周共阅读了2篇论文
+[1] J. Pan, Q. Xie, Y. He, F. Wang, H. Di, S. Laureys, R.Yu, and Y. Li, “Detecting awareness in patients with disorders of consciousness using a hybrid brain–computer interface,” Journal of neural engineering, vol. 11, no. 5, p. 056007, 2014
+[2] J. Pan, J. Xiao, J. Wang, F. Wang, J. Li, L. Qiu, H. Di, and Y. Li, “Brain–computer interfaces for awareness detection, auxiliary diagnosis, prognosis, and rehabilitation in patients with disorders of consciousness,” in Seminars in Neurology, vol. 42, no. 03. Thieme Medical Publishers, Inc., 2022, pp. 363–374.
+重看一篇论文
+[1] V. Galiotta, I. Quattrociocchi, M. D’Ippolito, F. Schettini, P. Aric`o,S. Sdoia, R. Formisano, F. Cincotti, D. Mattia, and A. Riccio, “Eeg-based brain-computer interfaces for people with disorders of consciousness:Features and applications. a systematic review,” Frontiers in Human Neuroscience, vol. 16, p. 1040816, 2022.
+搜集了6篇与BCI在意识障碍领域的应用的文献，已经更新到参考文献excel中
+
+2.	研创项目
+正在写研创项目申报书Part 1的稿子，目前进行到【国内外研究现状】的部分
+
+3.	打标调试
+
+4.	代码复现
+有同步在进行，但分配时间不多所以没什么进展
