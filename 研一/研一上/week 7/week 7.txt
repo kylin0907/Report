@@ -1,0 +1,18 @@
+1.文献阅读
+[1]D. Wu, Y. Xu, and B.-L. Lu, “Transfer learning for eeg-based brain computer interfaces: A review of progress made since 2016,” IEEE Transactions on Cognitive and Developmental Systems, vol. 14, no. 1, pp. 4–19, 2020.
+并没有整篇看完，只看了基于ERP的cross-subject部分。
+[2]F. Wang, Y. He, J. Pan, Q. Xie, R. Yu, R. Zhang, and Y. Li, “A novel audiovisual brain-computer interface and its application in awareness detection,” Scientific reports, vol. 5, no. 1, p. 9962, 2015.
+之前看的A cross-subject decoding algorithm for patients with disorder of consciousness based on P300 brain computer interface用到的就是这篇论文中提出的范式
+[3]J. Li, F. Wang, H. Huang, F. Qi, and J. Pan, “A novel semi-supervised meta learning method for subject-transfer brain–computer interface,” Neural Networks, vol. 163, pp. 195–204, 2023.
+里面提出的跨个体算法并没有怎么看懂
+[4]Y. Li, J. Pan, J. Long, T. Yu, F. Wang, Z. Yu, and W.Wu, “Multimodalbcis: target detection, multidimensional control, and awareness evaluation in patients with disorder of consciousness,” Proceedings of the IEEE, vol. 104, no. 2, pp. 332–352, 2015.
+搜集了很多国内外意识水平检测的研究现状
+
+参考文献搜集也有更新，搜集了一些关于迁移学习的论文但还没来得及看
+
+2.系统调试
+换上了新买的并口卡后调试了三天，都能正常运行
+
+3.研创项目
+申报书稿子有进行更新：因为思路有点卡住了，所以一直在看论文找思路，更新的部分不多
+申报书提纲：很初步的内容，因为还没想到可以往哪些方面拓展
